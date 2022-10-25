@@ -1,0 +1,2 @@
+C:\Users\Emanuel\source\repos\EmployeesApp\obj\Debug\EmployeesApp.esproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\source\repos\EmployeesApp\obj\Debug\EmployeesApp.esproj.CoreCompileInputs.cache
